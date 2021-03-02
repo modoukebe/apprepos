@@ -1,9 +1,0 @@
-geemap
-os
-ee
-ipywidgets
-bqplot
-pyplot
-ipyleaflet
-WidgetControl
-gunicorn==19.9.1
